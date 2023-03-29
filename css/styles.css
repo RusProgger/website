@@ -1,0 +1,29 @@
+@import url(../fonts/fonts.css);
+@import url(../css/container.css);
+@import url(../css/include/video.css);
+@import url(../css/include/header.css);
+@import url(../css/include/price.css);
+@import url(../css/include/footer.css);
+
+* {
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 16px;
+    height: 100%;
+}
+
+
+a {
+    text-decoration: none;
+
+}
+
+body {
+    font-family: 'AcBoucle', sans-serif;
+    font-size: 1rem;
+    font-style: normal;
+}
+
+

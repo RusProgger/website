@@ -1,0 +1,11 @@
+@font-face {
+    font-family: "AcBoucle";
+    src: url(../fonts/AcBoucle.ttf);
+}
+
+@font-face {
+    font-family: "AcBoucle";
+    src: url('../fonts/AcBoucle.woff2') format('woff2'),
+         url('../fonts/AcBoucle.woff') format('woff');
+}
+
